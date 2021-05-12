@@ -1,13 +1,4 @@
-*NOTE* This is a template. If you are here looking for info on current contests, you can find info on the latest contests at https://code423n4.com
-
-# Sponsorname Contest
-- XXX main award pot
-- XXX gas optimization award pot
-- Findings submitted as issues in this repo [using the C4 form](https://c4-XXXXXXXX.netlify.app/)
-- Starts XXX XXX XX 00:00 UTC
-- Ends XXX XXX XX 23:59 UTC
-
----
+# Visor Finance Contest
 
 ## Contest findings are submitted to this repo
 

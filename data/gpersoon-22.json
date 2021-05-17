@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Same keccak256 evaluated 3x",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/22"
+}

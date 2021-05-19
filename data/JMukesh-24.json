@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "missing condition in addTemplate(bytes32 name, address template), visorFactory.sol",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/24"
+}

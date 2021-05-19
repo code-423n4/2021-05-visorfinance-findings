@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "Sherlock",
+  "address": "0x94BcE1057E95D61A9754A238cddBdA0989787154",
+  "risk": "2",
+  "title": "It is expected that some functions may require either Owner or Delegate as callers. Now only three access options are available: onlyOwner, onlyDelegate, anyone. ",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/68"
+}

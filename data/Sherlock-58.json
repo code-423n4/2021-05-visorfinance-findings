@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "Sherlock",
+  "address": "0x666B8EbFbF4D5f0CE56962a25635CfF563F13161",
+  "risk": "2",
+  "title": "timeUnlockERC20() on line 619 of Visor.sol, able to unlock locked erc20 tokens",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/58"
+}

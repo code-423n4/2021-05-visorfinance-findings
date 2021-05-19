@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "Sherlock",
+  "address": "0x666B8EbFbF4D5f0CE56962a25635CfF563F13161",
+  "risk": "2",
+  "title": "delegatedTransferERC20() on line 442 of Visor.sol, able to get locked erc20 tokens",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/59"
+}

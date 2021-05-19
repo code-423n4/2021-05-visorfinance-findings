@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "Sherlock",
+  "address": "0x666B8EbFbF4D5f0CE56962a25635CfF563F13161",
+  "risk": "2",
+  "title": "getBalanceLocked on line 202 of Visor.sol doesn't return the total balance, just the highest balance",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/57"
+}

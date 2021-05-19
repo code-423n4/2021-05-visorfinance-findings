@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "0",
+  "title": "lack of zero address validation in constructor of RewardToken.sol,  stakingToken.sol",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/25"
+}

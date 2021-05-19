@@ -1,0 +1,9 @@
+{
+  "contest": "7",
+  "handle": "Sherlock",
+  "address": "0x94BcE1057E95D61A9754A238cddBdA0989787154",
+  "risk": "1",
+  "title": "The function onERC721Received () allows writing duplicates in the array \"nfts\". Another functions dealing with this array do not expect duplicates met.",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2021-05-visorfinance-findings/issues/67"
+}
